@@ -1,12 +1,12 @@
 # Site settings
-title: The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+title: Dawa Sherpa Guiding
+description: 'Site for my sherpa guiding company.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/MVM-logo-full.svg"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+url: "https://matt-cairnduff-deliveroo.github.io/nepal-trekking/" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/_images/deliveroo_logo.png.svg"
+logo-icon: "/_images/deliveroo_logo.png.svg"
+logo-icon-SEO: "/_images/deliveroo_logo.png.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
