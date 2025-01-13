@@ -24,54 +24,20 @@ logo-dark: "/_images/Roo.svg""
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
+author: Dawa Tshering # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author: Guide with over 11 years experience in mountaineering, ice climbing, and trekking in high mountain areas.
 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
-phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
-stackoverflow: stackoverflow # Add your stackoverflow account
-
-# Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
-
-# Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+email: Email address here # Add your Email address
+phone: +977 986 1509985 
+twitter: Twitter here
+facebook: Facebook here
 
 # Paginate
 paginate: 6
 paginate_path: 'page:num'
 words_per_minute: 200
-
-extensions:
-  mermaid_enable: true
-
-# Comments
-comments: utteranc  #[disqus, utteranc]
-comments_opts:
-  comments_curtain: yes # leave empty to show the disqus embed directly
-  repo: # The GitHub repo URL.  https://utteranc.es/
-  issue_term: # The GitHub issue label
-  label: # The GitHub comments label
-  theme: # The GitHub comment's there. e.g. github-dark
-  # Disqus
-  discus_identifier: # Add your discus identifier
-
-# Build settings
-markdown: kramdown
-mathjax: true
-highlighter: rouge
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
 
 # Outputting
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
