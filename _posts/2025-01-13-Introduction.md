@@ -5,12 +5,12 @@ show_date: true
 title: "Introduction"
 date: 2025-01-13 00:00:00
 img: posts/introduction.jpg
-tags: [packing, itinery]
-category: theory
-author: Armando Maynez
+tags: [introduction]
+category: intro
+author: Dawa Tshering
 description: "Introduction page to Dawa Sherpa Guiding"
 ---
-## Welcome to Dawa Sherpa guiding.
+## Welcome to Dawa Sherpa guiding!
 
 Hi, I'm Dawa Tshering 👋 
 
