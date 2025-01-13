@@ -4,9 +4,9 @@ description: 'Site for my sherpa guiding company.' # this means to ignore newlin
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://matt-cairnduff-deliveroo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/branding/roo.svg"
-logo-icon: "/assets/branding/roo.svg"
-logo-icon-SEO: "/assets/branding/roo.png" # must be a non SVG file
+logo: "/assets/img/branding/roo.svg"
+logo-icon: "/assets/img/branding/roo.svg"
+logo-icon-SEO: "/assets/img/branding/roo.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,12 +20,12 @@ logo-icon-SEO: "/assets/branding/roo.png" # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/branding/roo.svg"
+logo-dark: "/assets/img/branding/roo.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
 author: Dawa Tshering # add your name
-author-pic: "/assets/branding/bio.png"
+author-pic: "/assets/img/branding/bio.png"
 about-author: Guide with over 11 years experience in mountaineering, ice climbing, and trekking in high mountain areas.
 
 # Contact links
