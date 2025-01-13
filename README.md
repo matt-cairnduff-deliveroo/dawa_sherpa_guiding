@@ -8,4 +8,4 @@
   <li>A</li>
   <li>List</li>
 </ul>
-<img src="_images/deliveroo_logo.png" alt="Deliveroo Logo">
+<img src="https://github.com/matt-cairnduff-deliveroo/nepal-trekking/blob/main/_images/deliveroo_logo.png?raw=true" alt="Deliveroo Logo">
