@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "My Experience"
-date: 2025-01-13 00:00:00
+date: 2025-01-12 00:00:00
 img: posts/my_experience.jpg
 tags: [trekking, preparation]
 description: "My experience mountaineering"
