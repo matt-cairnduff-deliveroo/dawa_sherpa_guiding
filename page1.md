@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Me
+title: Info 1
 rank: 3
 ---
-Yay
+<h1> Info page about trekking </h1>
