@@ -2,10 +2,10 @@
 layout: post
 read_time: true
 show_date: true
-title: Why should I go?"
+title: "Why should I go?"
 date: 2021-04-20
 img: posts/starting_adventure.jpg
-tags: [copyright, creativity, neural networks, machine learning, artificial intelligence]
+tags: [trekking, preparation]
 category: opinion
 author: Armando Maynez
 description: "As neural networks are used more and more in the creative process, text, images and even music are now created by AI, but who owns the copyright for those works?"
