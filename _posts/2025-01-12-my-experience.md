@@ -16,4 +16,7 @@ description: "My experience mountaineering"
 - Recognized guide training from the Government of Nepal
 - A member of the [Nepal Mountaineering Association (NMA)](https://www.nepalmountaineering.org/home).
 - I have climbed Mount Everest twice (8,849 m), holding the record for [the first volleyball referee to reach the summit](https://www.fivb.com/volleyball-reaches-new-heights-at-the-peak-of-mount-everest)!
-- Externsive experience climbing many other mountains across the Himalayas, including Lobuche Peak (6,119 m), Yala Peak (5,500 m), Mera Peak (6,476 m).
+- Externsive experience climbing many other mountains across the Himalayas, including:
+  - Lobuche Peak (6,119 m)
+  - Yala Peak (5,500 m)
+  - Mera Peak (6,476 m)
