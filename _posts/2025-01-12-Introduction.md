@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "Introduction"
-date: 2025-01-13 00:00:00
+date: 2025-01-12 00:00:00
 img: posts/introduction.jpg
 tags: [packing, itinery]
 category: theory
