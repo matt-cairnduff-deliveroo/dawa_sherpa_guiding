@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "So, what is a neural network?"
+title: "Details about the trek"
 date: 2021-04-02
 img: posts/nnet_optimization.jpg
 tags: [neural networks, machine learning, artificial intelligence]
