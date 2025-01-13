@@ -1,7 +1,7 @@
 <h1>Nepal Trekking Info</h1>
 <h3>Trekking of the Nepal variety</h3>
 <ul>
-  <li>Lots</li>
+  <li>Lotsss</li>
   <li>of</li>
   <li>Items</li>
   <li>In</li>
