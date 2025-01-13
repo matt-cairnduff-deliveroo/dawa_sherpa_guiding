@@ -25,7 +25,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Dawa Tshering # add your name
-author-pic: "/assets/img/branding/bio.png"
+author-pic: "/branding/bio.png"
 about-author: Guide with over 11 years experience in mountaineering, ice climbing, and trekking in high mountain areas.
 
 # Contact links
