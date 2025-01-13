@@ -20,7 +20,7 @@ logo-icon-SEO: "/_images/deliveroo_logo.png.png" # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+logo-dark: "/_images/deliveroo_logo.png.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
