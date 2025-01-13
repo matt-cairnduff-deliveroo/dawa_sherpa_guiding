@@ -5,7 +5,7 @@ show_date: true
 title: "Details about the trek"
 date: 2021-04-02
 img: posts/nnet_optimization.jpg
-tags: [neural networks, machine learning, artificial intelligence]
+tags: [packing, itinery]
 category: theory
 author: Armando Maynez
 description: "ELI5: what is a neural network."
