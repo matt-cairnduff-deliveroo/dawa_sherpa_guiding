@@ -1,14 +1,5 @@
 theme: jekyll-theme-modernist
 title: Nepal Trekking Homepage
 description: This page contains details about ...
-
----
-  defaults:
-    # _docs
-    - scope:
-        path: ""
-        type: main
-      values:
-        sidebar:
-          nav: "main"
-  ---        
+sidebar:
+  - getting-started
