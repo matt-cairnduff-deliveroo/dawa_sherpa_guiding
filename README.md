@@ -1,5 +1,5 @@
 # Nepal Trekking Info
-##Trekking of the Nepal variety
+<h2>Trekking of the Nepal variety
 <ul>
   <li>Lots</li>
   <li>of</li>
@@ -8,3 +8,4 @@
   <li>A</li>
   <li>List</li>
 </ul>
+</h2>
