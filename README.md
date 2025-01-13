@@ -8,4 +8,4 @@
   <li>A</li>
   <li>List</li>
 </ul>
-<img src="/_images/deliveroo_logo.png" alt="Deliveroo Logo">
+<img src="_images/deliveroo_logo.png" alt="Deliveroo Logo">
