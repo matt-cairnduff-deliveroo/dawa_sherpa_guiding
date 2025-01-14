@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Testimonials"
 date: 2025-01-08 00:00:00
-img: posts/testimonial.jpeg
+img: posts/testimonial.png
 tags: [experience, mountaineering, testimonials]
 description: "Testimonials"
 ---
