@@ -18,8 +18,4 @@ description: "My experience mountaineering"
 - Extensive experience scaling many other mountains across the Himalayas, including:
   - Lobuche Peak (6,119 m)
   - Yala Peak (5,500 m)
-<<<<<<< HEAD
   - Mera Peak (6,476 m)
-=======
-  - Mera Peak (6,476 m)
->>>>>>> 7e1c296d319f1a7852b4ad15793d2b3cff144a49
