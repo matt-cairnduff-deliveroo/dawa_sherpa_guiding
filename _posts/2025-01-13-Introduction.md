@@ -9,7 +9,7 @@ tags: [introduction]
 description: "Introduction page to Dawa Sherpa Guiding"
 ---
 
-## Welcome to Dawa Sherpa guiding!
+## Welcome to Dawa Sherpa Guiding!
 
 Hi, I'm Dawa Tshering 👋 
 
