@@ -11,9 +11,8 @@ description: "Testimonials"
 
 ## What people have said about their experiences:
 
-### This is AI generated for now!
+### NOTE: This is AI generated for now!
 
-<br>
 <blockquote>
   <p>“I had the most amazing experience with Dawa Sherpa Guiding. The trek was challenging but so rewarding. I felt safe and supported throughout the journey. I would highly recommend Dawa to anyone looking for a guide in Nepal.”</p>
   <footer>— Kate, 2024</footer>
