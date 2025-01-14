@@ -4,7 +4,6 @@ read_time: true
 show_date: true
 title: "Introduction"
 date: 2025-01-13 00:00:00
-<<<<<<< HEAD
 img: posts/Rocks.jpeg
 tags: [introduction]
 description: "Introduction page to Dawa Sherpa Guiding"
