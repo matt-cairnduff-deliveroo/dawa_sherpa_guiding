@@ -9,9 +9,9 @@ tags: [experience, mountaineering, qualifications, training]
 description: "My experience mountaineering"
 ---
 
-## I have been working as a mountaineering and trekking guide for over 11 years, with experience in mountaineering, ice climbing, and trekking in high mountain areas.
+### I have been working as a mountaineering and trekking guide for over 11 years, with experience in mountaineering, ice climbing, and trekking in high mountain areas.
 
-### Experience
+<b>Experience</b>
 - Recognized guide training from the Government of Nepal
 - A member of the [Nepal Mountaineering Association (NMA)](https://www.nepalmountaineering.org/home).
 - I have climbed Mount Everest twice (8,849 m), holding the record for [the first volleyball referee to reach the summit](https://www.fivb.com/volleyball-reaches-new-heights-at-the-peak-of-mount-everest)!
