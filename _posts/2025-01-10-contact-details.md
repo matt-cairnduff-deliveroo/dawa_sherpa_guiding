@@ -17,4 +17,4 @@ I offer bespoke treks and expeditions all across the Himalayas to suit your pers
 If you would like more information or are interested in discussing options, please get in touch via +977 986 1509985.
 I can share further details and pricing, depending on your request.
 
-<img src="/assets/img/posts/Night.jpeg" alt="Night Trekking"
+<img src="https://github.com/matt-cairnduff-deliveroo/nepal-trekking/blob/main/assets/img/posts/Night.jpeg?raw=true" alt="Night Trekking">
