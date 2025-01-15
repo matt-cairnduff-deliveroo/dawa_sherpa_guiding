@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "Get in touch!"
-date: 2025-01-10 00:00:00
+date: 2025-01-08 00:00:00
 img: posts/Group.jpeg
 tags: [contact, booking]
 description: "Contact Info"
