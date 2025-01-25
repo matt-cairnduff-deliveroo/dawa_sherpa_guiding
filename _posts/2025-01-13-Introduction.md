@@ -13,7 +13,7 @@ description: "Introduction page to Dawa Sherpa Guiding"
 
 Hi, I'm Dawa Tshering 👋 
 
-I am a mountaineering and trekking guide with 11 years of exeprience based in Nepal. I was born in a small village in Solukhumbu district and grew up in the mountains. My father was also a mountaineering guide and he inspired me to pursue this career.
+I am a mountaineering and trekking guide with 11 years of experience based in Nepal. I was born in a small village in Solukhumbu district and grew up in the mountains. My father was also a mountaineering guide and he inspired me to pursue this career.
 <br>
 <br>
 I look forward to sharing this knowledge with other adventurers!
