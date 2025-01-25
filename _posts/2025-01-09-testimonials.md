@@ -16,3 +16,8 @@ description: "Testimonials"
   <footer>- Brett, 2024</footer>
 </blockquote>
 <br>
+<blockquote>
+  <p>“Dawa is super hard working, kind and great fun, with relentless energy! He has so much experience in the mountains at high altitude, and was positive and patient on summit night when things got tough. Thank you Dawa and team for an unforgettable trip - I hope we can return to Nepal soon for another adventure!”</p>
+  <footer>- Zoë, 2024</footer>
+</blockquote>
+<br>
